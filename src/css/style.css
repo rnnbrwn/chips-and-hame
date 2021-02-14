@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+h1 {
+  font-size: 8em;
+  color: #1c1c1c; }
+
+footer {
+  color: #e8e8e8;
+  text-transform: uppercase; }
+
+footer a {
+  color: blue; }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  right: 0; }
+
+body {
+  background-color: #e8e8e8; }
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center center; }
