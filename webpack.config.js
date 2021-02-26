@@ -10,10 +10,10 @@ module.exports = {
   module: {
     rules: [
       
-      // CSS rules
+      // SCSS, CSS rules
       {
-        test: /\.css$/i,
-        use: ['style-loader', 'css-loader'],
+        test: /\.(scss|css)$/,
+        use: ['style-loader', 'css-loader', 'sass-loader'],
       },
 
       // Image rules
