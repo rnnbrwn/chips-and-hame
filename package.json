@@ -1,0 +1,28 @@
+{
+  "name": "chipsandhame.co.uk",
+  "version": "1.0.0",
+  "description": "An absolutely nothing page, setup using webpack.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnnbrwn/static_chipsandhame.co.uk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnnbrwn/static_chipsandhame.co.uk/issues"
+  },
+  "homepage": "https://github.com/rnnbrwn/static_chipsandhame.co.uk#readme",
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
