@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'Geomanist';
+  src: url('./Geomanist-Medium.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+  font-family: 'Geomanist', Verdana, sans-serif; }
 
 h1 {
   font-size: 8em;
